@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-*
+* Polytechnic.Electrical automation technology in CHINA, Shenzhen Polytechnic University,2018-2021
 * Bachelor.Econ. in CHINA Guangdong, Guangdong University of Finance, 2021-2023
 * Postgraduate.Econ.Summer School in CHINA SHANGHAI,Shanghai University of International Business and Economics，2023.8
 * Visiting Scholar in CHINA SHENZHEN,Southern University of Science and Technology，2023.8-2023.11
