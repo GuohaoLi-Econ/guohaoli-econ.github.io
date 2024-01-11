@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*
+* Bachelor.Econ. in CHINA Guangdong, Guangdong University of Finance, 2021-2023
+* Postgraduate.Econ.Summer School in CHINA SHANGHAI,Shanghai University of International Business and Economics，2023.8
+* Visiting Scholar in CHINA SHENZHEN,Southern University of Science and Technology，2023.8-2023.11
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Robomaster Referee Assistant
+  * DJI Inc.Corp.
+  * sole the ROBOT Referee
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2021: Robomaster Assistant
+  * DJI Inc.Corp.
+  * sole design the ROBOT game film systerm
   
 Skills
 ======
@@ -48,9 +49,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
