@@ -44,8 +44,8 @@ Conference
 
 合作的导师
 ------
-* [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)他在2009年诺贝尔经济学奖获得者埃莉诺.奥斯特罗姆（Elinor Ostrom）教授指导下进行制度与政策分析研究。
-* [董彩婷博士](https://jrx.gduf.edu.cn/info/1036/1809.htm)上海财经大学经济学博士
+* [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)，他在2009年诺贝尔经济学奖获得者埃莉诺.奥斯特罗姆（Elinor Ostrom）教授指导下，进行制度与政策分析研究。
+* [董彩婷博士](https://jrx.gduf.edu.cn/info/1036/1809.htm)，上海财经大学，经济学博士
 
 
 *从来轮不到最好的选择给我，但往往我都是坚持到最后的那个人。
