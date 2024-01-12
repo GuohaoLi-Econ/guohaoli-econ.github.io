@@ -31,8 +31,8 @@ Conference
 
 参与的项目基金
 ------
-2023年度教育部人文社会科学研究青年基金项目 2023.3-2026.12
-Education Economic Research
-家校合作与儿童人力资本形成的研究：机制、效应与政策[教育部社科司已公布)](http://www.moe.gov.cn/s78/A13/tongzhi/202310/t20231019_1086367.html)
+* 2023年度教育部人文社会科学研究青年基金项目 2023.3-2026.12
+* Education Economic Research
+* 家校合作与儿童人力资本形成的研究：机制、效应与政策[教育部社科司已公布)](http://www.moe.gov.cn/s78/A13/tongzhi/202310/t20231019_1086367.html)
 
 
