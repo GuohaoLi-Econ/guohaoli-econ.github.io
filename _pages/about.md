@@ -29,12 +29,13 @@ redirect_from:
 
 Conference
 ======
-[学术论坛](https://jrx.gduf.edu.cn/info/1002/1901.htm) 金融与投资学院举办首期本科生学术能力提升系列论坛 
+[学术论坛](https://jrx.gduf.edu.cn/info/1002/1901.htm) 金融与投资学系列论坛 1/3
 
 
 上海研究生暑期学校
 ------
 [_中国青年经济学者联谊会(YES)](https://news.suibe.edu.cn/2023/0802/c12512a161407/page.htm)
+[_中国青年报新闻报道](https://news.cyol.com/gb/articles/2023-08/02/content_PbBN5Vfx9J.html)
 
 参与的项目基金
 ------
