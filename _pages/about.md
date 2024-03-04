@@ -33,6 +33,7 @@ Conference
 
 
 第11届上经贸大-YES“面向真实世界的经济研究”暑期学校
+------
 上海研究生暑期学校【全额奖学金-Scholarship】
 ======
 [_中国青年经济学者联谊会(YES)](https://news.suibe.edu.cn/2023/0802/c12512a161407/page.htm)
