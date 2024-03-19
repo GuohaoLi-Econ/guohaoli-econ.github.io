@@ -32,12 +32,11 @@ Conference
 [学术论坛](https://jrx.gduf.edu.cn/info/1002/1901.htm) 金融与投资学系列论坛 1/3
 
 
-第11届上经贸大-YES“面向真实世界的经济研究”暑期学校
+第11届上经贸大-YES“面向真实世界的经济研究”暑期学校[_中国青年经济学者联谊会(YES)](https://news.suibe.edu.cn/2023/0802/c12512a161407/page.htm)
+[_中国青年报新闻报道](https://news.cyol.com/gb/articles/2023-08/02/content_PbBN5Vfx9J.html)
 ------
 上海研究生暑期学校【全额奖学金-Scholarship】
 ======
-[_中国青年经济学者联谊会(YES)](https://news.suibe.edu.cn/2023/0802/c12512a161407/page.htm)
-[_中国青年报新闻报道](https://news.cyol.com/gb/articles/2023-08/02/content_PbBN5Vfx9J.html)
 *本次暑期学校由上海对外经贸大学主办，中国青年经济学者联谊会（YES）、上海交通大学中国发展研究院、复旦大学当代中国经济与社会工作室、中央财经大学经济学院、中山大学国际金融学院、上海财经大学公共经济与管理学院、《经济学（季刊）》《世界经济》《中国工业经济》《中国经济问题》《世界经济文汇》《财经研究》《经济科学》《经济社会体制比较》《国际经济评论》《管理视野》《China & World Economy》《Growth and Change》《Structural Change and Economic Dynamics》协办（排名不分先后）。
 
 参与的项目基金
