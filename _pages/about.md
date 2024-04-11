@@ -32,7 +32,9 @@ Conference
 [学术论坛](https://jrx.gduf.edu.cn/info/1002/1901.htm) 金融与投资学系列论坛 1/3
 
 
-第11届上经贸大-YES“面向真实世界的经济研究”暑期学校[_中国青年经济学者联谊会(YES)](https://news.suibe.edu.cn/2023/0802/c12512a161407/page.htm)
+第11届上经贸大-YES“面向真实世界的经济研究”暑期学校
+======
+[_中国青年经济学者联谊会(YES)](https://news.suibe.edu.cn/2023/0802/c12512a161407/page.htm)
 [_中国青年报新闻报道](https://news.cyol.com/gb/articles/2023-08/02/content_PbBN5Vfx9J.html)
 ======
 上海研究生暑期学校【全额奖学金-Scholarship】
