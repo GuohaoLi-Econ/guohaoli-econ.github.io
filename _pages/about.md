@@ -12,6 +12,9 @@ redirect_from:
 最新动态
 ======
 * American Psychological Association 美国心理学家协会， APA Membership，2025
+
+APA AWAD
+======
 * Guohao Li was elected to Grad Student status as per the Bylaws and Association Rules of APA.
   
 教育背景
