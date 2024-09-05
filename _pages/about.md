@@ -12,7 +12,7 @@ redirect_from:
 
 最新动态
 ======
-*American Psychological Association， APA Membership（ID: C2405055533），2025
+* American Psychological Association， APA Membership（ID: C2405055533），2025
 
 教育背景
 ======
