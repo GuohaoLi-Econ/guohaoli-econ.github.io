@@ -54,7 +54,7 @@ Conference
 
 我亲爱的导师们
 ======
-* [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)，他在2009年诺贝尔经济学奖获得者埃莉诺.奥斯特罗姆（Elinor Ostrom）教授指导下，进行制度与政策分析研究
+* [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)，他在2009年诺贝尔经济学奖得主埃莉诺.奥斯特罗姆（Elinor Ostrom）教授的指导下，进行制度与政策分析研究
 * [董彩婷博士](https://jrx.gduf.edu.cn/info/1036/1809.htm)，上海财经大学，经济学博士
 * 李莎 ，工程师，深圳职业技术大学自动化技术 研究生导师
 
