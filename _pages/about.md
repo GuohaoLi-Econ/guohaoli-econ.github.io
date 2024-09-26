@@ -11,7 +11,8 @@ redirect_from:
 
 最新动态
 ======
-* American Psychological Association 美国心理学家协会， APA Membership，2025
+* American Economic Association，AEA Membership，2024-2025
+* American Psychological Association 美国心理学家协会， APA Membership，2024-2025
 
 APA AWARD
 ======
