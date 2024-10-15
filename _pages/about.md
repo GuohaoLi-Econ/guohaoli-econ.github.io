@@ -11,7 +11,9 @@ redirect_from:
 
 最新动态
 ======
-* American Economic Association，AEA Membership，2024-2025
+* 中国技术经济学会，高级会员，2024-2028
+* 中国未来研究会，个人通讯会员，终身通讯会员
+* American Economic Association 美国经济学会，AEA Membership，2024-2025
 * American Psychological Association 美国心理学家协会， APA Membership，2024-2025
 
 APA AWARD
