@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Research
+Research certification
 ======
-* The World Bank Group Institute for Economic Development，DIME Analytics ,Manage Successful Field Research (MSFR) ，2024
+* Manage Successful Field Research (MSFR)，The World Bank Group Institute for Economic Development，DIME Analytics ，2024
+* Keep up the good work.
 
 社会兼职
 ======
