@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Economist 2024"
+title: "Economist 2025"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,8 @@ redirect_from:
 
 Research certification
 ======
-* Manage Successful Field Research (MSFR)，The World Bank Group Institute for Economic Development，DIME Analytics ，2024
-* Keep up the good work.
+* Manage Successful Field Research (MSFR)，The World Bank ，DIME Analytics ，2024
+* The World Bank Group Institute for Economic Development
 
 社会兼职
 ======
