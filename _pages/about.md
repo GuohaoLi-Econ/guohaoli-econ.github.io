@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Research
+======
+* The World Bank Group Institute for Economic Development，DIME Analytics ,Manage Successful Field Research (MSFR) ，2024
 
-最新动态
+社会兼职
 ======
 * 中国技术经济学会，高级会员，2024-2028
 * 中国未来研究会，个人通讯会员，终身通讯会员
@@ -27,8 +30,6 @@ APA AWARD
 * 广东金融学院       ，    国家金融学学院     ，  财政学               ，  2021-2023.7
 * 深圳职业技术大学    ，    机电工程学院      ，  电气自动化技术       ，  2018-2021 
 * 深圳职业技术大学    ，    创新创业学院      ，  工商企业管理（创新班） ，  2018-2021 
-
-
 
 
 
