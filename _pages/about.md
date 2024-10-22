@@ -10,11 +10,12 @@ redirect_from:
 
 The World Bank Research 
 ======
-* Manage Successful Field Research (MSFR)，，DIME Analytics ，2024
+* Manage Successful Field Research (MSFR)，DEC GLOBAL，DIME Analytics ，2024
 * The World Bank Group Institute for Economic Development
 
 Connection
 ======
+* 中国科学学与科技政策研究会，会员，2024-2029
 * 中国技术经济学会，高级会员，2024-2028
 * 中国未来研究会，个人通讯会员，终身通讯会员
 * American Economic Association 美国经济学会，AEA Membership，2024-2025
