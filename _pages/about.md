@@ -39,7 +39,7 @@ Edu
 
 Conference
 ======
-[学术论坛](https://jrx.gduf.edu.cn/info/1002/1901.htm) 广东金融学院金融与投资学系列论坛 1/3
+[本科学术论坛](https://jrx.gduf.edu.cn/info/1002/1901.htm) 广东金融学院金融与投资学系列论坛 1/3
 
 
 第11届上经贸大-YES“面向真实世界的经济研究”暑期学校
