@@ -28,7 +28,7 @@ APA AWARD
   
 Edu
 ======
-* XXX University（QS Ranking 164）， XXX School ，2025
+* ******* University（QS Ranking 164），******School ，2025 
 * 南方科技大学（US Ranking 157）     ，    系统设计与智能制造学院(SDIM)   ， 访问学者      ，  2023.8-2023.11
 * 上海对外经贸大学 ，上海研究生暑期学校，应用微观经济学 ， 2023.7-2023.8
 * 广东金融学院       ，    国家金融学学院     ，  财政学               ，  2021-2023.7
