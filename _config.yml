@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Guohao Li"
-  vatar            : me.png
+  vatar            : "me.png"
   bio              : "prefer love social media study"
   location         : "China"
   employer         : #""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "asia.lghao@hotmail.com"
+  email            : "guohaoli@hanyang.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
