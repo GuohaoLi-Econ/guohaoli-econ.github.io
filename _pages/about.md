@@ -19,7 +19,7 @@ Connection
 * American Psychological Association 美国心理学家协会， APA Grad Membership，2024-2025
 * American Finance Association 美国金融协会,  AFA Student Membership,2024-2027
 * 中国科学学与科技政策研究会，会员，2024-2029
-* 中国技术经济学会，高级会员，2024-2028
+* 中国技术经济学会，高级会员(liguohao@cste.org.cn)，2024-2028
 * 中国未来研究会，个人通讯会员，终身通讯会员
 
 APA AWARD
@@ -28,8 +28,8 @@ APA AWARD
   
 Edu
 ======
-* Hanyang University，Hanyang International Winter School(HIWS) ，2024.11-2025.01
-* 南方科技大学（US Ranking 157）     ，    系统设计与智能制造学院(SDIM)   ， 访问学者      ，  2023.7-2023.11
+* Hanyang University，Hanyang International Winter School(HIWS)，guohaoli@hanyang.ac.kr，2024.11-2025.01
+* 南方科技大学，    系统设计与智能制造学院(SDIM) ， ligh2023@mail.sustech.edu.cn ， 访问学者      ，  2023.7-2023.11
 * 上海对外经贸大学 ，上海研究生暑期学校，应用微观经济学 ， 2023.7-2023.8
 * 广东金融学院       ，    国家金融学学院     ，  财政学               ，  2021-2023.07
 * 深圳职业技术大学    ，    创新创业学院      ，  工商企业管理（创新班） ，  2018-2021
