@@ -28,7 +28,7 @@ APA AWARD
   
 Education
 ======
-是的目前人在韩国
+是的目前人在韩国首尔
 * Hanyang University，Hanyang International Winter School(HIWS)，guohaoli@hanyang.ac.kr，2024.12-2025.01
 * 南方科技大学，    系统设计与智能制造学院(SDIM) ， ligh2023@mail.sustech.edu.cn ， 访问学者      ，  2023.7-2023.11
 * 上海对外经贸大学 ，上海研究生暑期学校，应用微观经济学 ， 2023.7-2023.8
@@ -40,7 +40,7 @@ Education
 
 Conference
 ======
-[本科学术论坛](https://jrx.gduf.edu.cn/info/1002/1901.htm) 广东金融学院金融与投资学系列论坛 1/3
+[国家金融学学术论坛](https://jrx.gduf.edu.cn/info/1002/1901.htm) 广东金融学院金融与投资学系列论坛 1/3
 
 
 第11届上经贸大-YES“面向真实世界的经济研究”暑期学校
