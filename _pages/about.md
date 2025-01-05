@@ -26,7 +26,7 @@ APA AWARD
 ======
 * Guohao Li was elected to Grad Student status as per the Bylaws and Association Rules of APA.
   
-Edu
+Education
 ======
 * Hanyang University，Hanyang International Winter School(HIWS)，guohaoli@hanyang.ac.kr，2024.11-2025.01
 * 南方科技大学，    系统设计与智能制造学院(SDIM) ， ligh2023@mail.sustech.edu.cn ， 访问学者      ，  2023.7-2023.11
