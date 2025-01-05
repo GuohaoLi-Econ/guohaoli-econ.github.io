@@ -62,7 +62,7 @@ Fund（基金）
 
 Love is The Best Motivation （我亲爱的导师们）
 ======
-* [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)，师从Prof.Elinor Ostrom(2009年诺贝尔经济学奖得主)，研究方向为制度与政策分析。（认个诺奖徒孙）
+* [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)，师从Prof.Elinor Ostrom(2009年诺贝尔经济学奖得主)，研究方向为制度与政策分析。（认个诺奖徒孙哈哈）
 * [董彩婷博士](https://jrx.gduf.edu.cn/info/1036/1809.htm)，上海财经大学，经济学博士
 * 李莎 ，工程师，深圳职业技术大学自动化技术 研究生导师
 
