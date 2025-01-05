@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The World Bank Research 
+The World Bank Research (世界银行)
 ======
 * Manage Successful Field Research (MSFR)，DEC GLOBAL，DIME Analytics ，2024
 * The World Bank Group Institute for Economic Development
@@ -28,10 +28,10 @@ APA AWARD
   
 Edu
 ======
-* ******* University（QS Ranking 164），******School ，2025 
+* Hanyang University，Hanyang International Winter School(HIWS) ，2024.11-2025.01
 * 南方科技大学（US Ranking 157）     ，    系统设计与智能制造学院(SDIM)   ， 访问学者      ，  2023.7-2023.11
 * 上海对外经贸大学 ，上海研究生暑期学校，应用微观经济学 ， 2023.7-2023.8
-* 广东金融学院       ，    国家金融学学院     ，  财政学               ，  2021-2023.7
+* 广东金融学院       ，    国家金融学学院     ，  财政学               ，  2021-2023.07
 * 深圳职业技术大学    ，    创新创业学院      ，  工商企业管理（创新班） ，  2018-2021
 * 深圳职业技术大学    ，    机电工程学院      ，  电气自动化技术       ，  2018-2021 
 
@@ -48,11 +48,11 @@ Conference
 *  [_中国青年报新闻报道](https://news.cyol.com/gb/articles/2023-08/02/content_PbBN5Vfx9J.html)
 
 
-Shanghai Graduate Summer School【Academic Scholarship】
+Shanghai Graduate Summer School（Academic Scholarship）
 ======
-* 上海对外经贸大学，中国青年经济学者联谊会（YES）、上海交通大学中国发展研究院、复旦大学当代中国经济与社会工作室、中央财经大学经济学院、中山大学国际金融学院、上海财经大学公共经济与管理学院、《经济学（季刊）》《世界经济》《中国工业经济》《中国经济问题》《世界经济文汇》《财经研究》《经济科学》《经济社会体制比较》《国际经济评论》《管理视野》《China & World Economy》《Growth and Change》《Structural Change and Economic Dynamics》。
+* 上海对外经贸大学，中国青年经济学者联谊会（YES）、上海交通大学中国发展研究院、复旦大学当代中国经济与社会工作室、中央财经大学经济学院、中山大学国际金融学院、上海财经大学公共经济与管理学院、《经济学（季刊）》《世界经济》《中国工业经济》《中国经济问题》《世界经济文汇》《财经研究》《经济科学》《经济社会体制比较》《国际经济评论》《管理视野》《China & World Economy》《Growth and Change》《Structural Change and Economic Dynamics》
 
-Fund
+Fund（基金）
 ======
 * 2023年度教育部人文社会科学研究青年基金项目 2023.3-2026.12
 * Education Economic Research.董彩婷
@@ -60,7 +60,7 @@ Fund
 * [教育部社会科学司已公布](http://www.moe.gov.cn/s78/A13/tongzhi/202310/t20231019_1086367.html)
 
 
-Love is The Best Motivation 
+Love is The Best Motivation （我亲爱的导师们）
 ======
 * [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)，师从Prof.Elinor Ostrom(2009年诺贝尔经济学奖得主)，研究方向为制度与政策分析。（认个诺奖徒孙）
 * [董彩婷博士](https://jrx.gduf.edu.cn/info/1036/1809.htm)，上海财经大学，经济学博士
