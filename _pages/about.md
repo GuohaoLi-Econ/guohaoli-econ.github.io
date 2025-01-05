@@ -28,7 +28,7 @@ APA AWARD
   
 Education
 ======
-* Hanyang University，Hanyang International Winter School(HIWS)，guohaoli@hanyang.ac.kr，2024.11-2025.01
+* Hanyang University，Hanyang International Winter School(HIWS)，guohaoli@hanyang.ac.kr，2024.12-2025.01
 * 南方科技大学，    系统设计与智能制造学院(SDIM) ， ligh2023@mail.sustech.edu.cn ， 访问学者      ，  2023.7-2023.11
 * 上海对外经贸大学 ，上海研究生暑期学校，应用微观经济学 ， 2023.7-2023.8
 * 广东金融学院       ，    国家金融学学院     ，  财政学               ，  2021-2023.07
