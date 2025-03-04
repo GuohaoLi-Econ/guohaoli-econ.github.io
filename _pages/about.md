@@ -9,7 +9,7 @@ redirect_from:
 ---
 WorldQuant BRAIN （世坤投资咨询）
 ======
-* 量化交易大赛，铜牌/银牌/金牌得主
+* 全球量化交易大赛，铜牌/银牌/金牌得主
 * 现任职WORLDQUANT BRAIN 金牌研究顾问
   
 The World Bank Research (世界银行)
