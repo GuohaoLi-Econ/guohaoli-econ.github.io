@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+WorldQuant BRAIN （世坤投资咨询）
+======
+* 喜提铜牌/银牌/金牌得主
+* 现任职WORLDQUANT BRAIN 金牌研究顾问
+  
 The World Bank Research (世界银行)
 ======
 * Manage Successful Field Research (MSFR)，DEC GLOBAL，DIME Analytics ，2024
@@ -28,8 +32,7 @@ APA AWARD
   
 Education
 ======
-是的目前人在韩国首尔
-* Hanyang University，Hanyang International Winter School(HIWS)，guohaoli@hanyang.ac.kr，2024.12-2025.01
+* Hanyang University，Hanyang International Winter School(HIWS)，guohaoli@hanyang.ac.kr，2024-2025
 * 南方科技大学，    系统设计与智能制造学院(SDIM) ， ligh2023@mail.sustech.edu.cn ， 访问学者      ，  2023.7-2023.11
 * 上海对外经贸大学 ，上海研究生暑期学校，应用微观经济学 ， 2023.7-2023.8
 * 广东金融学院       ，    国家金融学学院     ，  财政学               ，  2021-2023.07
@@ -63,7 +66,7 @@ Fund（基金）
 
 Love is The Best Motivation （我亲爱的导师们）
 ======
-* [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)，师从Prof.Elinor Ostrom(2009年诺贝尔经济学奖得主)，研究方向为制度与政策分析。（认个诺奖徒孙哈哈）
+* [谭江涛副教授](https://baike.baidu.com/item/%E8%B0%AD%E6%B1%9F%E6%B6%9B/15820658?fr=aladdin)，师从Prof.Elinor Ostrom(2009年诺贝尔经济学奖得主)，研究方向为制度与政策分析。
 * [董彩婷博士](https://jrx.gduf.edu.cn/info/1036/1809.htm)，上海财经大学，经济学博士
 * 李莎 ，工程师，深圳职业技术大学自动化技术 研究生导师
 
