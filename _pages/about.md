@@ -71,7 +71,8 @@ Love is The Best Motivation （我亲爱的导师们）
 * [董彩婷博士](https://jrx.gduf.edu.cn/info/1036/1809.htm)，上海财经大学，经济学博士
 * 李莎 ，工程师，深圳职业技术大学自动化技术 研究生导师
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5697505688240635"
+     crossorigin="anonymous"></script>
 
 Take a Deep Breath and work on this step by step.
 -----
